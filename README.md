@@ -11,15 +11,14 @@ Este proyecto esta pensado como pieza de portafolio, y muestra buenas practicas 
 - Mostrar la frecuencia de los datos de mayor a menor.
 
 # ¿Qué hace el proyecto?
-A partir de un archivo.txt el programa: 
-//_  Conteo de datos:  _\\
-          
+A partir de un archivo.txt el programa:
+
           -Cuenta palabras
           -Cuenta letras.
           -Cuenta números.
           -Cuenta signos.
 
-//_  Generacion de archivos.csv: _\\
+Genera archivos.csv:
 
           - full_resultados.csv:
           Archivo con el informe total de todos los datos obtenidos.
@@ -34,12 +33,13 @@ A partir de un archivo.txt el programa:
           -Resumen.csv:
           Muestra el total de palabras, letras, líneas, número y signos.
 
-    ⚙️ Tecnologías usadas
+⚙️ Tecnologías usadas:
 
-Python 3.10+
+          Python 3.10+
 
-Módulo estándar csv
+          Módulo estándar csv
 
-Programación modular
+          Programación modular
+
 ⭐ Si te resulta útil, ¡no olvides dejar una estrella al repositorio!
 
