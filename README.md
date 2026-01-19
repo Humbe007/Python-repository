@@ -12,7 +12,7 @@ Este proyecto esta pensado como pieza de portafolio, y muestra buenas practicas 
 
 # ¿Qué hace el proyecto?
 A partir de un archivo.txt el programa: 
-     //_  Conteo de datos:  _\\
+//_  Conteo de datos:  _\\
           
           -Cuenta palabras
           -Cuenta letras.
