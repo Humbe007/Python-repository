@@ -1,29 +1,48 @@
 ### 🟢 Proyecto — Contador de palabras avanzado
 """
-**Objetivo:** análisis de texto avanzado.
+De un libro se obtiene el siguiente resultado:
 
-**Enunciado**
-De un libro tienes que obtener el siguiente resultado:
-
-Crear 1 archivo csv con los siguientes 3 conjuntos de datos: 
-
-    1- Con:
+Crear los siguientes archivos.csv: 
+    1-
 Tipo de dato, Conteo
-Palabra, 152
-Numeros, 8
+Palabra     ,  152
+Numeros     ,   8
 etc
-    2- Con:
-Palabra, Conteo
-Capitulo, 4
-etc
-    3- Con:
-Letra/Signo/Número, Conteo
 
+    2-
+Palabra , Conteo
+Capitulo,  102
+kill    ,  85
+jupiter ,  78
+etc
+
+    3- :
+Letra, Conteo
+a    ,   10
+b    ,   4
+c    ,   7
+etc
+
+    4-
+Signo , Conteo
+.     ,   7
+,     ,   5
+¿     ,   3
+etc
+    5-
+Número , Conteo
+1      ,   5
+6      ,   9
+2      ,    5
+etc
+
+6- Que contenga los 5 anteriores
 """ 
 #Reglas:
 """
 * No usar librerias externas
 """
+
 import procesos as func
 import exportacion as expo
 with open("Libro\\libro.txt", encoding= "UTF-8") as _libro_:
@@ -51,5 +70,6 @@ with open("Libro\\libro.txt", encoding= "UTF-8") as _libro_:
 # diccionario[2] = conteo_de_letras (Tercera tabla en los csv)
 
 # diccionario[3] = conteo_de_signos (Cuarta tabla en los csv)
+
 
 # diccionario[4] = conteo_de_numeros (Quinta tabla en los csv)
