@@ -36,9 +36,6 @@ Genera archivos.csv:
 ⚙️ Tecnologías usadas:
 
           Python 3.10+
-
-          Módulo estándar csv
-
           Programación modular
 
 ⭐ Si te resulta útil, ¡no olvides dejar una estrella al repositorio!
