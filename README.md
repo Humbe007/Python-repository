@@ -5,10 +5,10 @@ sobre la frecuencia de palabras, letras, números y signos.
 
 Este proyecto esta pensado como pieza de portafolio, y muestra buenas practicas como:
 
-- Separación por modulo.
-- Comentarios sobre el código mismo.
-- Generación de reportes.
-- Mostrar la frecuencia de los datos de mayor a menor.
+          - Separación por modulo.
+          - Comentarios sobre el código mismo.
+          - Generación de reportes.
+          - Mostrar la frecuencia de los datos de mayor a menor.
 
 # ¿Qué hace el proyecto?
 A partir de un archivo.txt el programa:
