@@ -1,0 +1,12 @@
+
+{'capítulo': 5, 'en': 7, 'una': 3, 'ciudad': 1, 'que': 2, 'nunca': 1, 'dormía': 1, 'las': 7, 'palabras': 4, 'viajaban': 1, 'de': 10, 'boca': 2, 'como': 1, 'si': 1, 'tuvieran': 1, 'vida': 1, 'propia': 1, 'cada': 2, 'historia': 1, 'dejaba': 1, 'huella': 1, 'distinta': 1, 'quienes': 1, 'la': 2, 'escuchaban': 1, 'el': 6, 'lenguaje': 1, 'era': 4, 'más': 3, 'comunicación': 1, 'memoria': 1, 'emoción': 1, 'y': 5, 'poder': 1, 'con': 1, 'paso': 1, 'del': 1, 'tiempo': 1, 'los': 2, 'libros': 1, 'comenzaron': 1, 'a': 1, 'acumularse': 1, 'bibliotecas': 1, 'antiguas': 1, 'algunos': 1, 'textos': 1, 'hablaban': 1, 'ciencia': 1, 'otros': 1, 'amor': 1, 'muchos': 1, 'lucha': 1, 'letras': 2, 'formaban': 1, 'mundos': 1, 'enteros': 1, 'dentro': 1, 'páginas': 1, 'silenciosas': 1, 'leer': 1, 'no': 3, 'solo': 2, 'pasar': 1, 'ojos': 1, 'por': 1, 'papel': 2, 'interpretar': 1, 'cuestionar': 1, 'descubrir': 1, 'significados': 1, 'ocultos': 1, 'lector': 2, 'encontraba': 2, 'algo': 1, 'distinto': 1, 'mismas': 1, 'cuando': 1, 'tecnología': 1, 'llegó': 1, 'texto': 1, 'cambió': 1, 'forma': 2, 'pero': 2, 'esencia': 1, 'pantallas': 1, 'sustituyeron': 1, 'al': 1, 'historias': 1, 'siguieron': 1, 'vivas': 1, 'repetidas': 1, 'revelaban': 1, 'ideas': 1, 'importantes': 1, 'así': 1, 'contar': 1, 'líneas': 1, 'se': 2, 'convirtió': 1, 'entender': 1, 'mensaje': 1, 'trataba': 1, 'números': 1, 'sino': 1, 'patrones': 2, 'esos': 1, 'atento': 1, 'conocimiento': 1}
+
+{'c': 43, 'a': 119, 'p': 29, 'í': 9, 't': 49, 'u': 32, 'l': 56, 'o': 79, 'e': 94, 'n': 66, 'i': 50, 'd': 29, 'q': 3, 'r': 54, 'm': 25, 's': 72, 'b': 21, 'v': 7, 'j': 5, 'h': 7, 'g': 9, 'á': 4, 'ó': 5, 'y': 6, 'z': 1, 'x': 2, 'f': 4, 'ú': 1}
+
+{',': 12, '.': 15, ':': 1}
+
+{1: 1, 2: 1, 3: 1, 4: 1, 5: 1}
+
+
+Los totales de cada tipo de dato han sido:
+{'Total Palabras': 169, 'Total Letras': 881, 'Total Líneas': 31, 'Total Números': 5, 'Total Signos': 28}
